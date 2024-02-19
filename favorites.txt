@@ -1,2 +1,5 @@
 spider-man
 batman
+pizza 
+sushi
+french fries
